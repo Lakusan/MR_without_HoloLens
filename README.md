@@ -64,7 +64,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* Project Link: [https://github.com/Lakusan/invisnav](https://github.com/Lakusan/invisnav)
+* Project Link: [https://github.com/Lakusan/MR_without_HoloLens](https://github.com/Lakusan/MR_without_HoloLens)
 * [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
