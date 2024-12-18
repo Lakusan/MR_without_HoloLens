@@ -8,10 +8,10 @@
   <p align="center">
     </br>
     </br>
-    <a href="https://github.com/Lakusan/MR_without_HoloLens/blob/develop/11012049_Bachelor_Thesis.pdf"><strong>Read Thesis »</strong></a>
+    <a href="https://github.com/Lakusan/MR_without_HoloLens/blob/main/11012049_Bachelor_Thesis.pdf"><strong>Read Thesis »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Lakusan/MR_without_HoloLens/blob/develop/11012049_Kolloquium_Bachelor_Thesis.pdf"><strong>View Presentaion »</strong></a>
+    <a href="https://github.com/Lakusan/MR_without_HoloLens/blob/main/11012049_Kolloquium_Bachelor_Thesis.pdf"><strong>View Presentaion »</strong></a>
 </div>
 
 
