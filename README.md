@@ -11,7 +11,7 @@
     <a href="https://github.com/Lakusan/MR_without_HoloLens/blob/main/11012049_Bachelor_Thesis.pdf"><strong>Read Thesis »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Lakusan/MR_without_HoloLens/blob/main/11012049_Kolloquium_Bachelor_Thesis.pdf"><strong>View Presentaion »</strong></a>
+    <a href="https://github.com/Lakusan/MR_without_HoloLens/blob/main/11012049_Kolloquium_Bachelor_Thesis.pdf"><strong>View Presentation »</strong></a>
 </div>
 
 
@@ -20,7 +20,7 @@
 <div>
     </br>
     <p>
-   This System was developed as part of my Bachelor's Thesis in Virtual Realities at SRH University Heidelberg, from May to September 2021.
+   This System was developed as part of my Bachelor's Thesis in Virtual Realities at SRH University Heidelberg (May to September 2021).
     </p>
     <p>
     Abstract:
