@@ -51,6 +51,12 @@ Reality.
 <div style="color: white; padding: 10px; width: 100%; height: 100%; margin: 0; ">
     <img src="SystemConcept.png" alt="Screenshot1" width="600" height="600" style="display: center;"></img>
 </div>
+<div style="color: white; padding: 10px; width: 100%; height: 100%; margin: 0; ">
+    <img src="slam.png" alt="Screenshot1" width="600" height="400" style="display: center;"></img>
+</div>
+<div style="color: white; padding: 10px; width: 100%; height: 100%; margin: 0; ">
+    <img src="slam2.png" alt="Screenshot1" width="900" height="450" style="display: center;"></img>
+</div>
 </section>
     
 
@@ -68,6 +74,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lakusan
